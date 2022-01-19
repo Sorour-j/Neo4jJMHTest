@@ -1,0 +1,11 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/jenkov/MyBenchmark.TestGeneralQuery
+inline,com/jenkov/MyBenchmark.TestOneGoQuery
+inline,com/jenkov/MyBenchmark.TestSeperateQueries
+inline,com/jenkov/Parameters.disposeDriver
+inline,com/jenkov/Parameters.driverSetting
+inline,com/jenkov/Parameters.setDriver

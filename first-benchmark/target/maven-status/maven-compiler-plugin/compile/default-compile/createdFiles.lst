@@ -1,0 +1,16 @@
+META-INF/CompilerHints
+com/jenkov/MyBenchmark.class
+com/jenkov/jmh_generated/MyBenchmark_jmhType_B2.class
+com/jenkov/jmh_generated/MyBenchmark_jmhType_B1.class
+com/jenkov/jmh_generated/Parameters_jmhType_B1.class
+com/jenkov/jmh_generated/MyBenchmark_jmhType_B3.class
+com/jenkov/jmh_generated/MyBenchmark_jmhType.class
+com/jenkov/jmh_generated/MyBenchmark_TestGeneralQuery_jmhTest.class
+com/jenkov/Parameters.class
+com/jenkov/jmh_generated/Parameters_jmhType_B2.class
+com/jenkov/jmh_generated/Parameters_jmhType_B3.class
+META-INF/BenchmarkList
+com/jenkov/jmh_generated/MyBenchmark_TestOneGoQuery_jmhTest.class
+com/jenkov/jmh_generated/MyBenchmark_TestSeperateQueries_jmhTest.class
+com/jenkov/BenchmarkLoop.class
+com/jenkov/jmh_generated/Parameters_jmhType.class

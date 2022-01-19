@@ -1,0 +1,3 @@
+JMH S 22 com.jenkov.MyBenchmark S 61 com.jenkov.jmh_generated.MyBenchmark_TestGeneralQuery_jmhTest S 16 TestGeneralQuery S 11 AverageTime E A 1 1 1 E I 1 4 E E I 1 8 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 22 com.jenkov.MyBenchmark S 59 com.jenkov.jmh_generated.MyBenchmark_TestOneGoQuery_jmhTest S 14 TestOneGoQuery S 11 AverageTime E A 1 1 1 E I 1 4 E E I 1 8 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
+JMH S 22 com.jenkov.MyBenchmark S 64 com.jenkov.jmh_generated.MyBenchmark_TestSeperateQueries_jmhTest S 19 TestSeperateQueries S 11 AverageTime E A 1 1 1 E I 1 4 E E I 1 8 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
